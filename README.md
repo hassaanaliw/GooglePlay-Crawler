@@ -31,3 +31,7 @@ A webcrawler made in scrapy that tells you the best paid and best free apps from
 * TRAVEL_AND_LOCAL
 * WEATHER
 * WIDGETS
+
+#Dependencies
+
+Requires Scrapy and all submodules it requires. To find out more go to the [Scrapy Website](http://doc.scrapy.org/en/latest/intro/install.html#intro-install)
