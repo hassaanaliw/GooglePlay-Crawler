@@ -48,6 +48,11 @@ For example :
 NOTE: Use lowercase when entering category names.  
 NOTE: CSV can be substituted for JSON and XML as well but I prefer CSV.
 
+#Tutorial
+
+A tutorial for scrapy and simplified version of this Crawler [can be found at](hassaanaliw.github.io/scrapy-tutorial)    
+
+
 
 #ToDo
 
