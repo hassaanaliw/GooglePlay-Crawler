@@ -50,7 +50,7 @@ NOTE: CSV can be substituted for JSON and XML as well but I prefer CSV.
 
 #Tutorial
 
-A tutorial for scrapy and simplified version of this Crawler [can be found at](hassaanaliw.github.io/scrapy-tutorial)    
+A tutorial for scrapy and simplified version of this Crawler [can be found here.](https://hassaanaliw.github.io/scrapy-tutorial)    
 
 
 
